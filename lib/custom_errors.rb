@@ -8,6 +8,7 @@ class Person
   def get_married(person)
     self.partner = person
     person.partner = self
+    if else I get married 
   end
 
 end
